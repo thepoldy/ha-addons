@@ -168,7 +168,7 @@ addons:
   unifi:
     repository: hassio-addons/addon-unifi
     target: unifi
-    image: ghcr.io/hassio-addons/unifi/{arch}
+    image: ghcr.io/hassio-addons/unifi/{arch}:4.0.0
   uptime-kuma:
     repository: hassio-addons/addon-uptime-kuma
     target: uptime-kuma
